@@ -1,0 +1,45 @@
+.test {
+    background-color: brown;
+    border: 2px solid #000;
+}
+.blocks {
+    display: flex;
+    justify-content: space-between;
+}
+.blocks__items {
+ border: 2px solid #fff;
+
+}
+
+.red {
+    background-color: brown;
+    font-size: 15px;
+    border: 2px solid hotpink;
+    
+}
+.green {
+    color: purple;
+    font-size: 25px;
+}
+.rem {
+    border: 2px solid #000;
+    
+}
+.main {
+    color: red;
+    display: none;
+  }
+  
+.block {
+    display: none;
+}
+#text-block {
+    background-color: blue;
+}
+.main-bg {
+    display: block;
+}
+.main-bg {
+    background-color: green;
+    
+};

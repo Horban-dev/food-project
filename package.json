@@ -1,0 +1,22 @@
+{
+  "name": "food_dist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IlliaFE/tabs-and-timer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IlliaFE/tabs-and-timer/issues"
+  },
+  "homenpm i page": "https://github.com/IlliaFE/tabs-and-timer#readme",
+  "devDependencies": {
+    "webpack-cli": "^4.10.0"
+  }
+}
